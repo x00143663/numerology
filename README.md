@@ -1,6 +1,6 @@
 # Functional specifications template
 
-This functional specifications template is adapted from [Electric Power Research Institute](http://www.erpi.com)
+[Google Maps Safest Route](http://storage.googleapis.com/culi-data-loc/index.html)
 
 For a tutorial on how functional specifications can help your project, you can read this [functional specifications tutorial](http://sixarm.com/functional-specifications-tutorial)
 
