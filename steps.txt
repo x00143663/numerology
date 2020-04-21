@@ -1,0 +1,17 @@
+- create display, add button, text view, add calendar, code to calc nr --- in res/layout/activity_main.xml and main/java/com.example.numerology/MainActivity
+- add implementation Android volley and gson library in src/build.gradle (line 34,35)
+- add permision for internet in src/main/AndroidManifest (line 4)
+
+- change - no action bar (disappear top bar with name)
+
+- add button and on click action 
+-add api request
+- add scrolable text vieww
+- add splash screen
+- add translate
+- add share button
+- add error msg
+- add new screen with all numbers
+
+
+

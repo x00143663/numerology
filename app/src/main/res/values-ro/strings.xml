@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Numerology</string>
+    <string name="select">Selectati data nasterii si apasati butonul de trimite!</string>
+    <string name="click">Apasa aici pentru selectia datei de nastere</string>
+    <string name="submit">Trimite</string>
+    <string name="button">Trimite</string>
+    <string name="toast">Mesaj</string>
+    <string name="number">Numarul tau este</string>
+    <string name="title_activity_scrolling">Numerologie Numere de la 1 la 9</string>
+    <string name="share">Distribuie</string>
+    <string name="radioButton">Faceți clic pentru a vedea toate numerele</string>
+</resources>
